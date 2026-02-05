@@ -6,7 +6,7 @@ My solutions to the [NeetCode 150](https://neetcode.io/practice) - a curated lis
 
 | Category | Progress |
 |----------|----------|
-| Arrays & Hashing | 1/9 |
+| Arrays & Hashing | 2/9 |
 | Two Pointers | 0/5 |
 | Sliding Window | 0/6 |
 | Stack | 0/7 |
@@ -34,7 +34,7 @@ My solutions to the [NeetCode 150](https://neetcode.io/practice) - a curated lis
 |--------|---------|------------|----------|
 | [ ] | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Easy | |
 | [x] | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | Easy | |
-| [ ] | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | |
+| [x] | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | |
 | [ ] | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | Medium | |
 | [ ] | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | Medium | |
 | [ ] | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | Medium | |
