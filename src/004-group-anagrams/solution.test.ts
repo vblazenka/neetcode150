@@ -24,20 +24,20 @@ describe("groupAnagrams", () => {
         });
     });
 
-    // describe("edge cases", () => {
-    //     test("handles all identical strings", () => {
-    //         const result = groupAnagrams(["abc", "abc", "abc"]);
-    //         expect(sortResult(result)).toEqual(sortResult([["abc", "abc", "abc"]]));
-    //     });
+    describe("edge cases", () => {
+        test("handles all identical strings", () => {
+            const result = groupAnagrams(["abc", "abc", "abc"]);
+            expect(sortResult(result)).toEqual(sortResult([["abc", "abc", "abc"]]));
+        });
 
-    //     test("handles no anagrams", () => {
-    //         const result = groupAnagrams(["abc", "def", "ghi"]);
-    //         expect(sortResult(result)).toEqual(sortResult([["abc"], ["def"], ["ghi"]]));
-    //     });
+        test("handles no anagrams", () => {
+            const result = groupAnagrams(["abc", "def", "ghi"]);
+            expect(sortResult(result)).toEqual(sortResult([["abc"], ["def"], ["ghi"]]));
+        });
 
-    //     test("handles single character strings", () => {
-    //         const result = groupAnagrams(["a", "b", "a"]);
-    //         expect(sortResult(result)).toEqual(sortResult([["a", "a"], ["b"]]));
-    //     });
-    // });
+        test("handles single character strings", () => {
+            const result = groupAnagrams(["a", "b", "a"]);
+            expect(sortResult(result)).toEqual(sortResult([["a", "a"], ["b"]]));
+        });
+    });
 });
