@@ -6,7 +6,7 @@ My solutions to the [NeetCode 150](https://neetcode.io/practice) - a curated lis
 
 | Category | Progress |
 |----------|----------|
-| Arrays & Hashing | 2/9 |
+| Arrays & Hashing | 5/9 |
 | Two Pointers | 0/5 |
 | Sliding Window | 0/6 |
 | Stack | 0/7 |
@@ -24,7 +24,7 @@ My solutions to the [NeetCode 150](https://neetcode.io/practice) - a curated lis
 | Intervals | 0/6 |
 | Math & Geometry | 0/8 |
 | Bit Manipulation | 0/7 |
-| **Total** | **1/150** |
+| **Total** | **5/150** |
 
 ---
 
@@ -32,11 +32,11 @@ My solutions to the [NeetCode 150](https://neetcode.io/practice) - a curated lis
 
 | Status | Problem | Difficulty | Solution |
 |--------|---------|------------|----------|
-| [ ] | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Easy | |
+| [x] | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Easy | |
 | [x] | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | Easy | |
 | [x] | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | |
-| [ ] | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | Medium | |
-| [ ] | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | Medium | |
+| [x] | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | Medium | |
+| [x] | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | Medium | |
 | [ ] | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | Medium | |
 | [ ] | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | Medium | |
 | [ ] | [Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/) | Medium | |
